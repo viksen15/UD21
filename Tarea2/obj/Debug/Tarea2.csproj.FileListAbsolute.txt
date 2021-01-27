@@ -1,0 +1,10 @@
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\viiksen\Documents\curso NET\UD20\Tarea2\Tarea2\obj\Debug\Tarea2.Areas.resources
